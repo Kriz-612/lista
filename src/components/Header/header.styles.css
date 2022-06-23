@@ -1,0 +1,13 @@
+.header {
+    background: rgb(150,148,185);
+    background: linear-gradient(90deg, rgba(150,148,185,1) 4%, rgba(77,164,143,1) 46%, rgba(150,148,185,1) 100%);
+    padding-top: 2rem;
+}
+
+.header div {
+    max-width: 1120px;
+    margin:0 auto;
+
+    padding: 2rem 1rem 12rem;
+  
+}
