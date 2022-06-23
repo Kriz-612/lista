@@ -1,4 +1,4 @@
-/*import { render, screen, fireEvent } from '@testing-library/react'
+import { render, screen, fireEvent } from '@testing-library/react'
 import List from './List'
 
 describe('List component', () => {
@@ -37,5 +37,5 @@ fireEvent.change(input, {
 
      })
 })
-*/
+
  
